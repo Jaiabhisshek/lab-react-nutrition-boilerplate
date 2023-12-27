@@ -1,0 +1,13 @@
+#foodBox{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px;
+}
+#foodBox img{
+  height: 100px;
+  width: 100px;
+}
+#side-bar{
+  display: flex;
+}
